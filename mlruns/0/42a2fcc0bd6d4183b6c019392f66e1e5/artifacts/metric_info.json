@@ -1,0 +1,4 @@
+{
+  "accuracy_score-2__": "accuracy_score(y_true=Y_test, y_pred=<ndarray>)",
+  "accuracy_score_X_train": "accuracy_score(y_true=Y_train, y_pred=<ndarray>)"
+}
